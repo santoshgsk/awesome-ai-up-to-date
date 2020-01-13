@@ -17,3 +17,4 @@
 
 ## Trends Overview
 - Jan 10, 2020 - [Deep Learning State of the Art 2020 - MIT](https://www.youtube.com/watch?v=0VH1Lim8gL8)
+- Jan 1, 2020 - [AI in 2020 - Connor Shorten](https://www.youtube.com/watch?v=6SWpN64Ivb4&feature=youtu.be)

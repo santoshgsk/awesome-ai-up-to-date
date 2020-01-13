@@ -4,3 +4,5 @@
 - [NVIDIA Data Loading Library - DALI](https://developer.nvidia.com/DALI)
 
 
+## FastAI
+- [Key Elements of Fast AI v2 by Jeremy Howard](https://www.youtube.com/watch?v=imsBjsWLJzE)

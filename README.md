@@ -5,3 +5,9 @@ A list of best resources covering broad topics including Python, Data Engineerin
 ## Podcasts
 - [Chai Time Data Science](https://anchor.fm/chaitimedatascience)
 - [This Week in Machine Learning and AI](https://twimlai.com/)
+
+## Structured Thinking
+- June 12, 2017 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+
+## Futuristic Trends
+- Jan 11, 2020 - [Software Commodities are eating interesting Data Science Work](https://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)
