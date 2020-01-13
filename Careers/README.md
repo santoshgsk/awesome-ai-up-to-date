@@ -1,0 +1,2 @@
+## Journey
+- Jan 9, 2020 [Shifting Careers to Autonomous Vehicles - How I moved from debt collection to self-driving cars - Vladimir Iglovikov](https://towardsdatascience.com/how-i-found-my-current-job-3fb22e511a1f)
