@@ -2,6 +2,7 @@
 - University of Helsinki - [Elements of AI](https://www.elementsofai.com/)
 
 ## [Practical] Deep Learning
+- Jan 2020 - [Zachary Mueller's fastaiv2 Study Group and Lecture Series](https://forums.fast.ai/t/a-walk-with-fastai2-study-group-and-online-lectures-megathread/59929)
 - Weights&Biases - [Machine Learning/Deep Learning project based course designed for engineers](https://github.com/lukas/ml-class/)
 - [fast.ai](https://www.fast.ai)
 
