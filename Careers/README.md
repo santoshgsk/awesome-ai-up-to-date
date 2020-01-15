@@ -7,3 +7,6 @@
 
 ## General Advice
 - Jan 10, 2020 - [AI Career Pathways by Workera](https://d2wahc834rj2un.cloudfront.net/Workera%20Report.pdf)
+
+## Hiring
+- Jan 13, 2020 - [How to hire smarter than the market: a toy model](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
