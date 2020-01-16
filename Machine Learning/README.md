@@ -7,5 +7,9 @@
 - Jan 14, 2020 - [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
 
 
+## Dataset Drift
+- Jan 15, 2020 - [Can you trust your Model's uncertainty?](https://ai.googleblog.com/2020/01/can-you-trust-your-models-uncertainty.html)
+
+
 ## Loss Functions
 - Dec 23, 2019 - [Beyond L2 Loss — How we experiment with loss functions at Lyft](https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d)

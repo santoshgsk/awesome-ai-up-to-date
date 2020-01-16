@@ -3,3 +3,6 @@
 
 ## Architecture
 - Jan 7, 2020 - [The NLU Orchestra](https://www.youtube.com/watch?v=ZPc35mK90Wk)
+
+## Datasets
+- Jan 15, 2020 - [2020 Duolingo Shared Task:STAPLE: Simultaneous Translation And Paraphrase for Language Education](http://sharedtask.duolingo.com/#data)

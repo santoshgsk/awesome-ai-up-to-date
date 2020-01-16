@@ -14,6 +14,9 @@
 ## Post-rationalization
 - Dec 5, 2019 - Blog - [Deep Double Descent](https://openai.com/blog/deep-double-descent/)
 
+## Interpretability
+- Jan 15, 2020 - [Featuring the impact of feature attribution baselines](https://distill.pub/2020/attribution-baselines/)
+
 
 ## Trends Overview
 - Jan 10, 2020 - [Deep Learning State of the Art 2020 - MIT](https://www.youtube.com/watch?v=0VH1Lim8gL8)
@@ -22,3 +25,6 @@
 ## Neural ODEs
 - Jan 14, 2020 - [How To Train Interpretable Neural Networks That Accurately Extrapolate From Small Data](https://www.stochasticlifestyle.com/how-to-train-interpretable-neural-networks-that-accurately-extrapolate-from-small-data/)
 
+
+## Attention
+- Nov 15, 2019 - [How a self-attention layer learn convolutional filters?](http://jbcordonnier.com/posts/attention-cnn/) [Code](https://github.com/epfml/attention-cnn)
