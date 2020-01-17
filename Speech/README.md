@@ -6,3 +6,8 @@
 
 ## Tool
 - [PyTorch Audio](https://github.com/pytorch/audio)
+
+## Papers
+- [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://arxiv.org/abs/1904.03288)
+- [Stoichastic Gradient Methods with LAYER-WISE Adaptive Momentds  For AINING  OFDEEPNETWORKS](https://arxiv.org/pdf/1905.11286.pdf)
+- [[Activation] GeLU - Gaussian Error Linear Units](https://arxiv.org/pdf/1606.08415.pdf)

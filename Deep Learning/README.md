@@ -28,3 +28,6 @@
 
 ## Attention
 - Nov 15, 2019 - [How a self-attention layer learn convolutional filters?](http://jbcordonnier.com/posts/attention-cnn/) [Code](https://github.com/epfml/attention-cnn)
+
+## Invariant Learning
+- Jun 2019 - [On Learning Invariant Representations for Domain Adaptation](https://blog.ml.cmu.edu/2019/09/13/on-learning-invariant-representations-for-domain-adaptation/)

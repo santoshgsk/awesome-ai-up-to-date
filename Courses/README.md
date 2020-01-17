@@ -8,6 +8,9 @@
 - [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [Code Accompanying the book "Hands-On ML with scikit-learn and Tensorflow"](https://github.com/ageron/handson-ml)
 - [Companion repository for the book "Building ML Powered Applications"](https://github.com/hundredblocks/ml-powered-applications)
+- [Advanced SQL course] (https://www.kaggle.com/learn/advanced-sql)
+- Sep 2019 [FastAI v2 walk through videos](https://forums.fast.ai/t/fastai-v2-daily-code-walk-thrus/53839)
+
 
 ## [Theory + Practical] Deep Learning
 - Master Datascience Paris Saclay - [Deep Learning Course - Lecture Slides and Lab Notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)

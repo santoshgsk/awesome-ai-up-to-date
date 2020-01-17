@@ -4,5 +4,7 @@
 
 ## Research
 - Nov 19, 2019 - NeurIPS 2019 - [Hierarchical Optimal Transport for Document Representation](https://arxiv.org/abs/1906.10827)
+- May 3, 2017 - [Neural Models for Information Retrieval](https://arxiv.org/abs/1705.01509)
+
 
 
