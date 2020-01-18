@@ -6,6 +6,8 @@
 - Jan 7, 2020 - [Winning Kaggle Competitions with Deep Learning](https://www.youtube.com/watch?v=8YTUpMY2dos)
 - Jan 14, 2020 - [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
 
+## Training
+- Jan 17, 2020 - [Parallel Grid Search on H20](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/)
 
 ## Dataset Drift
 - Jan 15, 2020 - [Can you trust your Model's uncertainty?](https://ai.googleblog.com/2020/01/can-you-trust-your-models-uncertainty.html)

@@ -1,5 +1,8 @@
 ## Journey
+
 - Jan 9, 2020 [Shifting Careers to Autonomous Vehicles - How I moved from debt collection to self-driving cars - Vladimir Iglovikov](https://towardsdatascience.com/how-i-found-my-current-job-3fb22e511a1f)
+- March 06, 2017 - [Some Reflections on Being Turned Down for a Lot of Data Science Jobs](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/)
+
 
 ## Freelance
 - Blog - Jan 8, 2020 [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)

@@ -6,3 +6,6 @@
 
 ## Tools
 - [Kornia](https://kornia.github.io/)
+
+## Datasets
+- [10,000 camera trap images representing 23 classes from Eastern North America](http://lila.science/datasets/ena24detection)
