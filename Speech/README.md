@@ -12,3 +12,7 @@
 ## Papers
 - May, 2019 - [Stoichastic Gradient Methods with LAYER-WISE Adaptive Momentds  For AINING  OFDEEPNETWORKS](https://arxiv.org/pdf/1905.11286.pdf)
 - June, 2016 - [Activation GeLU - Gaussian Error Linear Units](https://arxiv.org/pdf/1606.08415.pdf)
+
+
+## Speech Enhancement
+- Jan 15, 2020 - [Improving GANs for Speech Enhancement](https://arxiv.org/abs/2001.05532)

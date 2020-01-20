@@ -10,13 +10,11 @@
 ## Optimizer
 - Jan 5, 2020 - Blog - [AdaMod - Optimizer with memory](https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd)
 
-
 ## Post-rationalization
 - Dec 5, 2019 - Blog - [Deep Double Descent](https://openai.com/blog/deep-double-descent/)
 
 ## Interpretability
 - Jan 15, 2020 - [Featuring the impact of feature attribution baselines](https://distill.pub/2020/attribution-baselines/)
-
 
 ## Trends Overview
 - Jan 10, 2020 - [Deep Learning State of the Art 2020 - MIT](https://www.youtube.com/watch?v=0VH1Lim8gL8)
@@ -26,9 +24,11 @@
 ## Neural ODEs
 - Jan 14, 2020 - [How To Train Interpretable Neural Networks That Accurately Extrapolate From Small Data](https://www.stochasticlifestyle.com/how-to-train-interpretable-neural-networks-that-accurately-extrapolate-from-small-data/)
 
-
 ## Attention
 - Nov 15, 2019 - [How a self-attention layer learn convolutional filters?](http://jbcordonnier.com/posts/attention-cnn/) [Code](https://github.com/epfml/attention-cnn)
 
 ## Invariant Learning
 - Jun 2019 - [On Learning Invariant Representations for Domain Adaptation](https://blog.ml.cmu.edu/2019/09/13/on-learning-invariant-representations-for-domain-adaptation/)
+
+## Pruning
+- Jan 15, 2020 - [A "Network Pruning Network" Approach to Deep Model Compression](https://arxiv.org/abs/2001.05545)

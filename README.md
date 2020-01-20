@@ -11,3 +11,7 @@ A list of best resources covering broad topics including Python, Data Engineerin
 
 ## Futuristic Trends
 - Jan 11, 2020 - [Software Commodities are eating interesting Data Science Work](https://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)
+
+
+## Writing
+- [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)

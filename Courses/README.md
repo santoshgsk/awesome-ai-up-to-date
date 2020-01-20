@@ -24,3 +24,6 @@
 
 ## Curated lists
 - [Awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
+
+## Recommended Books
+- [OpenSyllabus](https://opensyllabus.org/)

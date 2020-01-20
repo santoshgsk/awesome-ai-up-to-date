@@ -12,3 +12,4 @@
 
 ## Tools
 - [tfdlpack-gpu: Moving between GPU frameworks](https://twitter.com/zstats/status/1217510085825462272)
+- [jupyterplot - Create real-time plots in Jupyter notebooks.](https://lvwerra.github.io/jupyterplot/)

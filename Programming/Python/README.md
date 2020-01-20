@@ -5,3 +5,6 @@
 
 ## Code Tools
 - Jan 1, 2020 - [nbdev - Create delightful Python projects using Jupyter notebooks](https://github.com/fastai/nbdev)
+
+## Data Structures 
+- Jan, 2020 - [nfstream: a flexible network data analysis framework](https://github.com/aouinizied/nfstream)
