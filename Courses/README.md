@@ -1,5 +1,6 @@
-## [Overview] Intro to Machine Learning
+## [Overview] Introductory
 - University of Helsinki - [Elements of AI](https://www.elementsofai.com/)
+- [Introducing Artificial Intelligence: A Graphic Guide](https://www.amazon.in/Introducing-Artificial-Intelligence-Graphic-Guide-ebook/dp/B014RZ1M96/ref=redir_mobile_desktop?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0)
 
 ## [Practical]
 - Jan 2020 - [Zachary Mueller's fastaiv2 Study Group and Lecture Series](https://forums.fast.ai/t/a-walk-with-fastai2-study-group-and-online-lectures-megathread/59929) [Code](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)

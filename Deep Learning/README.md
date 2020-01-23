@@ -7,6 +7,9 @@
 ## Experimentation Tracking
 - [Weights & Biases](https://www.wandb.com/)
 
+## Inference
+- [ONNX Runtime: cross-platform, high performance scoring engine for ML models ](https://github.com/Microsoft/onnxruntime)
+
 ## Optimizer
 - Jan 5, 2020 - Blog - [AdaMod - Optimizer with memory](https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd)
 

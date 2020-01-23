@@ -9,3 +9,6 @@
 
 ## Blogs
 - Sep 3, 2019 - [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
+
+## Tools
+- Jan 17, 2020 - [GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks](https://arxiv.org/abs/2001.06216)

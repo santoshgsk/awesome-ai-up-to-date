@@ -3,3 +3,4 @@
 
 ## Discussion
 - [Should we use Bayesian NNs when we don't have any idea of priors?](https://twitter.com/carlesgelada/status/1208618401729568768)
+

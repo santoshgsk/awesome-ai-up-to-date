@@ -1,5 +1,6 @@
 ## Journey
 - Jan 20, 2020 - [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+- Jan 18, 2020 - [How I found my current job](https://neongen-ai.github.io/2020/01/18/how_I_found_my_current_job.html)
 - Jan 9, 2020 [Shifting Careers to Autonomous Vehicles - How I moved from debt collection to self-driving cars - Vladimir Iglovikov](https://towardsdatascience.com/how-i-found-my-current-job-3fb22e511a1f)
 - May, 2019 [A Step-by-Step Guide to Transitioning your Career to Data Science – Part 1](https://www.kdnuggets.com/2019/05/guide-transitioning-career-data-science-part-1.html)
 - March 06, 2017 - [Some Reflections on Being Turned Down for a Lot of Data Science Jobs](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/)

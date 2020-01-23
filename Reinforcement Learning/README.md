@@ -6,6 +6,7 @@
 - [Reinforcement Learning in PyTorch ](https://github.com/astooke/rlpyt)
 
 ## Papers
+- Jan 19, 2020 - [Gradient Surgery for Multi task learning](https://arxiv.org/abs/2001.06782)
 - ICLR 2019 - [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/pdf?id=r1lyTjAqYX)
 - ICLR 2018 - [Distributed Prioritized Experience Replay](https://openreview.net/pdf?id=H1Dy---0Z)
 

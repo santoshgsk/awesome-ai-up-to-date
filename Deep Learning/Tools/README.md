@@ -9,3 +9,4 @@
 
 ## DL libraries
 - [Flax - DL library for JAX](https://github.com/google-research/flax/tree/prerelease)
+- Jan 20, 2020 - [Google introduces Flax - a NN library for JAX](https://medium.com/syncedreview/google-introduces-flax-a-neural-network-library-for-jax-84bdc6f8f160)

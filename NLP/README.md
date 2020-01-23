@@ -12,6 +12,7 @@
 - Jan 13, 2020 - [Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits](https://arxiv.org/abs/2001.04362)
 
 # Transformers
+- Jan 22, 2020 - [Evolution of Representations in the Transformer](https://www.youtube.com/watch?v=h5N7sbAKBhA)
 - Aug 18, 2019 -[Transformers from scratch](http://www.peterbloem.nl/blog/transformers))
 - Aug 20, 2019 -[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
 - Aug 23, 2019 -[Making Transformer networks simpler and more efficient ](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/)
@@ -32,3 +33,7 @@
 
 ## Lifelong Learning
 - Nov 16, 2018 - [Towards Training Recurrent Neural Networks for Lifelong Learning](https://arxiv.org/abs/1811.07017)
+
+## Compositionality
+- Jan, 2020 - [Pull out all the stops: Textual analysis via punctuation sequences](https://arxiv.org/abs/1901.00519v2)
+- Aug, 2019 - [The compositionality of neural networks: integrating symbolism and connectionism](https://arxiv.org/abs/1908.08351)

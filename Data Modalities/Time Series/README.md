@@ -1,4 +1,5 @@
 ## Papers
+- Jan 18, 2020 - [Inference for Network Structure and Dynamics from Time Series Data via Graph Neural Network](https://arxiv.org/abs/2001.06576)
 - [For2For: Learning to forecast from forecasts](https://arxiv.org/abs/2001.04601)
 
 ## Tools
