@@ -1,4 +1,5 @@
 ## Papers
+- Jan 17, 2020 - [Sideways: Depth-Parallel Training of Video Models](https://arxiv.org/abs/2001.06232)
 - Jan 10, 2020 - [Choosing the Sample with Lowest Loss makes SGD Robust](https://arxiv.org/abs/2001.03316)
 - Oct 27, 2017 - [Searching for activation functions] (https://arxiv.org/pdf/1710.05941.pdf)
 

@@ -32,3 +32,6 @@
 
 ## Pruning
 - Jan 15, 2020 - [A "Network Pruning Network" Approach to Deep Model Compression](https://arxiv.org/abs/2001.05545)
+
+## Generalization
+- Jan 14, 2020 - [Understanding Generalization in Deep Learning via Tensor Methods](https://arxiv.org/abs/2001.05070)

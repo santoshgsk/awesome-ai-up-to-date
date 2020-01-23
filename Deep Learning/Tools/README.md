@@ -6,3 +6,6 @@
 
 ## FastAI
 - [Key Elements of Fast AI v2 by Jeremy Howard](https://www.youtube.com/watch?v=imsBjsWLJzE)
+
+## DL libraries
+- [Flax - DL library for JAX](https://github.com/google-research/flax/tree/prerelease)

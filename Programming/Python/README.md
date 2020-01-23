@@ -8,3 +8,9 @@
 
 ## Data Structures 
 - Jan, 2020 - [nfstream: a flexible network data analysis framework](https://github.com/aouinizied/nfstream)
+
+## Debugging
+- June 23, 2019 - [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs)
+
+## Testing
+- Jan 15, 2020 - [Codemodding Python: unittest asserts to Python asserts](https://medium.com/kolonial-no-product-tech/codemodding-python-unittest-asserts-to-python-asserts-dbf4d1da8c0)

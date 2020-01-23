@@ -11,3 +11,6 @@
 
 ## CT Scans
 - Jan 13, 2020 - [Automated opportunistic osteoporotic fracture risk assessment using computed tomography scans to aid in FRAX underutilization](https://www.nature.com/articles/s41591-019-0720-z)
+
+## Papers
+- Jan 20, 2020 - [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092)
