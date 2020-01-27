@@ -1,4 +1,5 @@
 ## Journey
+- Jan 24, 2020 - [How a passion for numbers turned this Mechanical Engineer into a Kaggle Grandmaster](https://towardsdatascience.com/how-a-passion-for-numbers-turned-this-mechanical-engineer-into-a-kaggle-grandmaster-8b1ae218afc)
 - Jan 20, 2020 - [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 - Jan 18, 2020 - [How I found my current job](https://neongen-ai.github.io/2020/01/18/how_I_found_my_current_job.html)
 - Jan 9, 2020 [Shifting Careers to Autonomous Vehicles - How I moved from debt collection to self-driving cars - Vladimir Iglovikov](https://towardsdatascience.com/how-i-found-my-current-job-3fb22e511a1f)

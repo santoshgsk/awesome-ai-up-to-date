@@ -12,6 +12,7 @@ A list of best resources covering broad topics including Python, Data Engineerin
 
 ## Futuristic Trends
 - Jan 11, 2020 - [Software Commodities are eating interesting Data Science Work](https://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)
+- Dec, 2019 - [From System 1 DL to System 2 DL by Yoshua Bengio](https://slideslive.com/38921750/from-system-1-deep-learning-to-system-2-deep-learning)
 
 
 ## Writing

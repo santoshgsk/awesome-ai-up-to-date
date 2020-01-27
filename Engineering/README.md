@@ -3,10 +3,12 @@
 
 ## Blogs
 - Jan 13, 2020 - [Optimize Response Time of your Machine Learning API in Production](https://www.sicara.ai/blog/optimize-response-time-api)
+- Jan 8, 2020 - [Observability for Data Engineering](https://medium.com/databand-ai/observability-for-data-engineering-a2e826587205)
 - July 25, 2019 - [Production ML Survey Results](https://www.ethanrosenthal.com/2019/07/25/production-ml-survey/)
 - Jan 8, 2018 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 
 ## System Design
+- [DagsterMill - integrate jupyter notebooks into a step of a data pipeline](https://dagster.readthedocs.io/en/0.6.7.post0/sections/learn/guides/data_science/data_science.html)
 - Dec 25, 2019 - [Twelve truths of Machine Learning for Real World](http://deliprao.com/archives/227)
 - Nov 19, 2019 - [Effects of smashing AI into human decisions](https://www.youtube.com/watch?v=vGfVa0c3R1w)
 - Paper - [ML Test Score - A rubric for ML Production readiness and techinical debt reduction](https://research.google/pubs/pub46555/)

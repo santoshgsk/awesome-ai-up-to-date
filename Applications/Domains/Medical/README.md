@@ -7,7 +7,7 @@
 
 ## Datasets
 - [HealthData.gov](https://healthdata.gov/)
-
+- [EchoNet Dynamic A Large New Cardiac Motion Video Data Resource for Medical Machine Learning](https://echonet.github.io/dynamic/)
 
 ## CT Scans
 - Jan 13, 2020 - [Automated opportunistic osteoporotic fracture risk assessment using computed tomography scans to aid in FRAX underutilization](https://www.nature.com/articles/s41591-019-0720-z)
@@ -17,3 +17,4 @@
 
 ## Blogs
 - Jan 2020 - [The Image Classifier - 2nd Place Solution Breakdown - RSNA Intracranical Hemorrhage Competition](https://ntentional.squarespace.com/technical/2020/1/24/kaggle-rsna-2nd-place-train-img-classifier)
+- Dec 2019 - [Understanding Transfer Learning for Medical Imaging](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html)

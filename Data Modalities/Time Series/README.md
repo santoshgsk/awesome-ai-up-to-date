@@ -1,6 +1,8 @@
 ## Papers
+- Jan 2020 - [Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://arxiv.org/abs/2001.08317)
 - Jan 18, 2020 - [Inference for Network Structure and Dynamics from Time Series Data via Graph Neural Network](https://arxiv.org/abs/2001.06576)
 - [For2For: Learning to forecast from forecasts](https://arxiv.org/abs/2001.04601)
+- Jul, 2019 - [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
 
 ## Tools
 - [Timeseries library - tsfresh](https://tsfresh.readthedocs.io/en/v0.12.0/)
