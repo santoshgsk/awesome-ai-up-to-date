@@ -2,6 +2,7 @@
 A list of best resources covering broad topics including Python, Data Engineering, Data Analysis, Machine Learning, Deep Learning, RL
 
 ## Podcasts, Newsletters
+- [Practical AI me - Trending content in ML](https://practicalai.me/)
 - [Chai Time Data Science](https://anchor.fm/chaitimedatascience)
 - [This Week in Machine Learning and AI](https://twimlai.com/)
 - [Projects to Know](https://mailchi.mp/amplifypartners.com/ptk18-12142857)

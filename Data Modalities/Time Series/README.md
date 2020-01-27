@@ -6,5 +6,6 @@
 - [Timeseries library - tsfresh](https://tsfresh.readthedocs.io/en/v0.12.0/)
 - [A scikit-learn compatible Python toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
 
-## Blogs
+## Blogs/Videos
+- Jan 21, 2020 - [PyData Meetup: Intro to Causal Inference in Time Series](https://www.youtube.com/watch?v=QVQoV22pPak)
 - Sep, 2018 -[An End-to-End Project on Time Series Analysis and Forecasting with Python](https://www.kdnuggets.com/2018/09/end-to-end-project-time-series-analysis-forecasting-python.html)

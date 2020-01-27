@@ -1,0 +1,2 @@
+## Blogs
+-  [BERT Movie Review Sentiment Analysis](https://peltarion.com/knowledge-center/tutorials/bert-movie-review-sentiment-analysis?utm_medium=paidsocial&utm_source=linkedin&utm_campaign=websitevisitorsconversions&utm_content=bertmoviesentimentanalysis)

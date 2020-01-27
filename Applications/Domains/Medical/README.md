@@ -14,3 +14,6 @@
 
 ## Papers
 - Jan 20, 2020 - [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092)
+
+## Blogs
+- Jan 2020 - [The Image Classifier - 2nd Place Solution Breakdown - RSNA Intracranical Hemorrhage Competition](https://ntentional.squarespace.com/technical/2020/1/24/kaggle-rsna-2nd-place-train-img-classifier)

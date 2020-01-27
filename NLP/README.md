@@ -2,6 +2,7 @@
 - May 2, 2019 - [Attention Explained - Stanford NLP Course](https://www.youtube.com/watch?v=XXtpJxZBa2c&feature=youtu.be&t=3721)
 
 ## BERT
+- Jan 24, 2020 - [How to train BERT with limited GPU RAM (PyTorch)](https://www.youtube.com/watch?v=Q2fT-lANdVQ)
 - Jan 17, 2020 - [How to fine tune BERT for NER](https://gab41.lab41.org/how-to-fine-tune-bert-for-named-entity-recognition-2257b5e5ce7e)
 - Jan 7, 2020 - [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)
 

@@ -4,12 +4,14 @@
 - Oct 27, 2017 - [Searching for activation functions] (https://arxiv.org/pdf/1710.05941.pdf)
 
 
-
 ## Tips
 - Jan 21, 2020 - [Microsoft open sources breakthrough optimizations for transformer inference on GPU and CPU](https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/)
 - Jan 16, 2020 - [The 5-Step Recipe To Make Your Deep Learning Models Bug-Free](https://medium.com/cracking-the-data-science-interview/the-5-step-recipe-to-make-your-deep-learning-models-bug-free-ec93e8ba8d6e)
 - Jan 14, 2020 - [Kornia's MaxBlurPool2d with mxresnet and Ranger-Mish improved results on Imagewoof](https://twitter.com/ducha_aiki/status/1216841143624794114)
 - Jan 13, 2020 - [Google's AugMix with test time mean-max pooling improves ImageNet top-1](https://twitter.com/wightmanr/status/1216788357981798400)
+
+## HPO
+- Nov 19, 2019 - [Optimized Image Classification on the Cheap](https://www.youtube.com/watch?time_continue=5&v=P5rU5LJfV5A&feature=emb_title)
 
 
 ## Tools

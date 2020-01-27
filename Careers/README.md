@@ -13,7 +13,12 @@
 ## General Advice
 - Jan 20, 2020 - [How to be an effective researcher](https://www.youtube.com/watch?v=ttTEpgGwsts)
 - Jan 10, 2020 - [AI Career Pathways by Workera](https://d2wahc834rj2un.cloudfront.net/Workera%20Report.pdf)
+- Aug, 2019 - [How to lead Data Science teams](https://www.youtube.com/embed/C9t6bhLJd7M?feature=oembed)
 
+
+## Blogging
+- [Convert Jupyter Notebooks to blogs using Github Actions](https://github.com/fastai/fast_template/blob/master/_notebooks/README.md)
+- [Fast Template for Blogging](https://www.fast.ai/2020/01/16/fast_template/)
 
 ## Hiring
 - Jan 13, 2020 - [How to hire smarter than the market: a toy model](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)

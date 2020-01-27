@@ -1,6 +1,8 @@
 
 ## Collection
+- Jan 2020 [Google Datasets](https://twitter.com/JeffDean/status/1220398456096710656)
 - Jan 9, 2020 [Neural Data Server: A Large-Scale Search Engine for Transfer Learning Data](https://arxiv.org/abs/2001.02799)
+
 
 ## 3D
 - [3D People Dataset - First dataset of dressed humans with specific geometry representation of clothes](https://cv.iri.upc-csic.es/)
