@@ -1,4 +1,5 @@
 ## Medical Imaging
+- [Deep learning interpretation of echocardiograms](https://www.nature.com/articles/s41746-019-0216-8), [Link to Tweet by Eric Topol](https://twitter.com/EricTopol/status/1222318537504460800)
 - Feb 14, 2019 - [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
 
 

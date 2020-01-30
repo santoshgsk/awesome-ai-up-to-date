@@ -5,3 +5,6 @@
 
 ## Papers
 - Jan 19, 2020 - [Pelican: A Deep Residual Network for Network Intrusion Detection](https://arxiv.org/abs/2001.08523)
+
+## Implementations
+- [Security Alert Analysis Using GPUs](https://medium.com/rapids-ai/security-alert-analysis-using-gpus-1a31270aa85e#cid=av01_so-twit_en-us)

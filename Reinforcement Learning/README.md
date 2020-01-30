@@ -16,6 +16,7 @@
 
 
 # Text-based games
+- Jan 24, 2020 - [PCGRL: Procedural Content Generation via Reinforcement Learning](https://arxiv.org/abs/2001.09212)
 - Jan 16, 2020 - [By making text-based games more accessible to RL agents, Jericho framework opens up exciting natural language challenges](https://www.microsoft.com/en-us/research/blog/by-making-text-based-games-more-accessible-to-rl-agents-jericho-framework-opens-up-exciting-natural-language-challenges/?OCID=msr_blog_jericho_AAAI_tw)
 
 

@@ -10,3 +10,6 @@
 
 ## Version Control
 - Jan 16, 2020 - [Integrated Version Control: Linking Rasa X with Git-based Development Workflows](https://blog.rasa.com/integrated-version-control-linking-rasa-x-with-git-based-development-workflows-untitled/?utm_source=twitter)
+
+## Papers
+- Jan 23, 2020 - [Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text](https://arxiv.org/abs/2001.08764)

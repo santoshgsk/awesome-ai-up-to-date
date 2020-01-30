@@ -10,3 +10,7 @@
 
 ## Tools
 - [Survival Analysis](https://better.engineering/convoys/)
+
+## Environment Setup
+- [Using VNC to connect to remote Jupyter Notebooks removing rendering issues for long runs](https://forums.fast.ai/t/vnc-server-rfb-003-008/14607/25)
+- [nbdev: Export functionalities to library](https://nbdev.fast.ai/)

@@ -1,4 +1,5 @@
 ## Speech Recognition
+- Jan 25, 2020 - [Multi-task self-supervised learning for Robust Speech Recognition](https://arxiv.org/abs/2001.09239)
 - Jan 13, 2020 - [Online speech recognition with wav2letter@anywhere](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
 - Nov 19, 2019 - [End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures](https://arxiv.org/abs/1911.08460)
 - April, 2019 - [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://arxiv.org/abs/1904.03288)
@@ -16,3 +17,6 @@
 
 ## Speech Enhancement
 - Jan 15, 2020 - [Improving GANs for Speech Enhancement](https://arxiv.org/abs/2001.05532)
+
+## Compression
+- Nov 11, 2019 - [Feedback Recurrent AutoEncoder](https://arxiv.org/abs/1911.04018)

@@ -12,3 +12,6 @@
 
 ## Chats
 - Jan 15, 2020 - [2020 Duolingo Shared Task:STAPLE: Simultaneous Translation And Paraphrase for Language Education](http://sharedtask.duolingo.com/#data)
+
+## Blogs
+- Jan 29, 2020 - [Anatomizing ImageNet](https://gab41.lab41.org/anatomizing-imagenet-bc16b8335d11)
