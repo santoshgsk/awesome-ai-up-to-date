@@ -1,0 +1,2 @@
+## Blogs
+- Jan 29, 2020 - [Record your experiments in a few lines of codes with fast_neptune !](https://medium.com/@danielhuynh_48554/record-your-experiments-in-a-few-lines-of-codes-with-fast-neptune-79cd799136c5)

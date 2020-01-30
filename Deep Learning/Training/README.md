@@ -11,6 +11,7 @@
 - Nov 2015 - [All you need is good init](https://arxiv.org/abs/1511.06422)
 
 ## Tips
+- Jan 27, 2020 - [TensorFlow 2.0 Tutorial : Optimizing Training Time Performance](https://www.sicara.ai/blog/tensorflow-tutorial-training-time)
 - Jan 21, 2020 - [Microsoft open sources breakthrough optimizations for transformer inference on GPU and CPU](https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/)
 - Jan 16, 2020 - [The 5-Step Recipe To Make Your Deep Learning Models Bug-Free](https://medium.com/cracking-the-data-science-interview/the-5-step-recipe-to-make-your-deep-learning-models-bug-free-ec93e8ba8d6e)
 - Jan 14, 2020 - [Kornia's MaxBlurPool2d with mxresnet and Ranger-Mish improved results on Imagewoof](https://twitter.com/ducha_aiki/status/1216841143624794114)
