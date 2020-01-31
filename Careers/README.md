@@ -12,6 +12,7 @@
 - Blog - Jan 7, 2017 [My experience as a Freelance Data Scientist](http://www.gregreda.com/2017/01/07/freelance-data-science-experience/)
 
 ## General Advice
+- Jan 27, 2020 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - Jan 20, 2020 - [How to be an effective researcher](https://www.youtube.com/watch?v=ttTEpgGwsts)
 - Jan 10, 2020 - [AI Career Pathways by Workera](https://d2wahc834rj2un.cloudfront.net/Workera%20Report.pdf)
 - Aug, 2019 - [How to lead Data Science teams](https://www.youtube.com/embed/C9t6bhLJd7M?feature=oembed)

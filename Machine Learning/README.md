@@ -7,6 +7,7 @@
 - Jan 14, 2020 - [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
 
 ## Training
+- Jan 28, 2020 - [40x faster inference on deepest forests using RAPIDS](https://medium.com/rapids-ai/sparse-forests-with-fil-ffbb42b0c7e3?ncid=so-twit-34094#cid=av01_so-twit_en-us)
 - Jan 17, 2020 - [Parallel Grid Search on H20](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/)
 
 ## Dataset Drift

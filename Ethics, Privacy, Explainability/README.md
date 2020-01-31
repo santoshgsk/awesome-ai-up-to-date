@@ -1,4 +1,5 @@
 ## Social Impact
+- [Firefox on building safer data products](https://twitter.com/abbycabs/status/1222437501895421955)
 - Dec 10, 2019 - [Roles for Computing in Social Change](https://arxiv.org/abs/1912.04883)
 
 ## Privacy preserving
@@ -16,4 +17,5 @@
 - Jul 25, 2017 - [What is the Problem to Which Fair Machine Learning is the Solution? | Solon Barocas | AI Now 2017](https://www.youtube.com/watch?time_continue=4&v=S_AkPi6-r3Y&feature=emb_title)
 
 ## Ethics
+- Jan 16, 2020 - ["Practical Ethics: building it better in 2020 and beyond" - Nicola Nye (LCA 2020)](https://www.youtube.com/watch?list=PLD8dAKx4J2I7pzm1pjAcreW4p7SWaXcGO&v=P4Uf4eL8qAU)
 - June 2019 - [Understanding AI Ethics and Safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
