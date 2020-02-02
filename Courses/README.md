@@ -6,6 +6,7 @@
 - Jan 2020 - [Full Stack Deep Learning Bootcamp 2019](https://www.youtube.com/watch?v=5ygO8FxNB8c)
 - Jan 2020 - [Zachary Mueller's fastaiv2 Study Group and Lecture Series](https://forums.fast.ai/t/a-walk-with-fastai2-study-group-and-online-lectures-megathread/59929) [Code](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
 - Weights&Biases - [Machine Learning/Deep Learning project based course designed for engineers](https://github.com/lukas/ml-class/)
+- [Advanced NLP with Spacy](https://course.spacy.io/)
 - [fast.ai](https://www.fast.ai)
 - [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [Code Accompanying the book "Hands-On ML with scikit-learn and Tensorflow"](https://github.com/ageron/handson-ml)

@@ -21,10 +21,12 @@
 - Dec 2019 - [Automated Model tuning using SigOpt](https://www.youtube.com/watch?v=L_xq1jXxzZs)
 - Nov 19, 2019 - [Optimized Image Classification on the Cheap](https://www.youtube.com/watch?time_continue=5&v=P5rU5LJfV5A&feature=emb_title)
 
-
 ## Tools
 - [tfdlpack-gpu: Moving between GPU frameworks](https://twitter.com/zstats/status/1217510085825462272)
 - [jupyterplot - Create real-time plots in Jupyter notebooks.](https://lvwerra.github.io/jupyterplot/)
 
 ## Augmentation
 - Jan 21, 2020 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)
+
+## Twitter Threads
+ - Feb 1, 2020 - [trained ResNet-50 on imagenet to 75.9% top-1 accuracy in 3.51 minutes using a 512-core TPUv3.(480,000 images per second. 224x224 res JPG.)](https://twitter.com/theshawwn/status/1223395022814339073)

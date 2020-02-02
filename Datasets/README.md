@@ -15,3 +15,6 @@
 
 ## Blogs
 - Jan 29, 2020 - [Anatomizing ImageNet](https://gab41.lab41.org/anatomizing-imagenet-bc16b8335d11)
+
+## Papers
+- Dec 22, 2019 - [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning](https://arxiv.org/abs/1912.10389)

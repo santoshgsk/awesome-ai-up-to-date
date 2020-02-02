@@ -13,6 +13,10 @@
 ## Dataset Drift
 - Jan 15, 2020 - [Can you trust your Model's uncertainty?](https://ai.googleblog.com/2020/01/can-you-trust-your-models-uncertainty.html)
 
+## Tabular Data
+- Jan 2020 - [Tips for selecting model for tabular data](https://twitter.com/jeremyphoward/status/1223777020934361088/photo/1)
+- Jan 26, 2020 - [Modelling tabular data with Google’s TabNet](https://towardsdatascience.com/modelling-tabular-data-with-googles-tabnet-ba7315897bfb)
 
 ## Loss Functions
 - Dec 23, 2019 - [Beyond L2 Loss — How we experiment with loss functions at Lyft](https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d)
+

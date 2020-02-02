@@ -1,4 +1,5 @@
 ## Paper
+- Jan 29, 2020 - [Depth Based Semantic Scene Completion with Position Importance Aware Loss](https://arxiv.org/abs/2001.10709)
 - Jan 15, 2020 - [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
 
 ## Code

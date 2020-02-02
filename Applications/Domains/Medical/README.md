@@ -15,6 +15,8 @@
 
 ## Papers
 - Jan 20, 2020 - [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092)
+- Dec 2019 - [Causality matters in medical imaging](https://arxiv.org/abs/1912.08142)
+- Nov 2019 - [Machine Learning for Clinical Decision-Making: Challenges and Opportunities](https://www.preprints.org/manuscript/201911.0278/v1)
 
 ## Blogs
 - Jan 2020 - [The Image Classifier - 2nd Place Solution Breakdown - RSNA Intracranical Hemorrhage Competition](https://ntentional.squarespace.com/technical/2020/1/24/kaggle-rsna-2nd-place-train-img-classifier)
