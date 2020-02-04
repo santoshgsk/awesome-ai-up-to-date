@@ -1,6 +1,9 @@
 ## Attention
 - May 2, 2019 - [Attention Explained - Stanford NLP Course](https://www.youtube.com/watch?v=XXtpJxZBa2c&feature=youtu.be&t=3721)
 
+## Datasets
+- [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
+
 ## BERT
 - [Extracting different senses of polysemic words from BERT](https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820)
 - Jan 24, 2020 - [How to train BERT with limited GPU RAM (PyTorch)](https://www.youtube.com/watch?v=Q2fT-lANdVQ)

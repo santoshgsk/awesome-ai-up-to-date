@@ -17,3 +17,6 @@ A list of best resources covering broad topics including Python, Data Engineerin
 
 ## Writing
 - [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)
+
+## Tool Builder
+- [Streamlitopedia](https://pmbaumgartner.github.io/streamlitopedia/front/introduction.html)

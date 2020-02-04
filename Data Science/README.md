@@ -9,6 +9,7 @@
 
 
 ## Tools
+- [Optimize your Jupyter notebooks](https://www.freecodecamp.org/news/optimize-your-jupyter-notebook/)
 - [Survival Analysis](https://better.engineering/convoys/)
 
 ## Environment Setup

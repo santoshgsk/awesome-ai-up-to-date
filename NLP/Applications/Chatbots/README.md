@@ -9,6 +9,7 @@
 - Jan 15, 2020 - [2020 Duolingo Shared Task:STAPLE: Simultaneous Translation And Paraphrase for Language Education](http://sharedtask.duolingo.com/#data)
 
 ## Version Control
+- Feb 3, 2020 - [Webinar: How to Use Integrated Version Control in Rasa X](https://www.youtube.com/watch?v=i2KGIVQ0Q4o&feature=youtu.be&utm_source=twitter)
 - Jan 16, 2020 - [Integrated Version Control: Linking Rasa X with Git-based Development Workflows](https://blog.rasa.com/integrated-version-control-linking-rasa-x-with-git-based-development-workflows-untitled/?utm_source=twitter)
 
 ## Papers
