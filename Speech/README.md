@@ -4,6 +4,8 @@
 - Jan 8, 2020 - [The Challenges of using Transformers in ASR](https://desh2608.github.io/2020-01-08-transformer-asr/)
 - Nov 19, 2019 - [End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures](https://arxiv.org/abs/1911.08460)
 - April, 2019 - [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://arxiv.org/abs/1904.03288)
+- [Wav2Letter Demo](https://github.com/pytorch/audio/tree/master/examples/interactive_asr)
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
 ## Speech Synthesis
 - Jan 15, 2020 - [Differential Digital Signal Processing](https://magenta.tensorflow.org/ddsp)

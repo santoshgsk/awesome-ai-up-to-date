@@ -1,5 +1,6 @@
 
 ## Collection
+- [SensiML Data Depot](https://datadepot.sensiml.com/)
 - Jan 2020 [Google Datasets](https://twitter.com/JeffDean/status/1220398456096710656)
 - Jan 9, 2020 [Neural Data Server: A Large-Scale Search Engine for Transfer Learning Data](https://arxiv.org/abs/2001.02799)
 
@@ -18,3 +19,4 @@
 
 ## Papers
 - Dec 22, 2019 - [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning](https://arxiv.org/abs/1912.10389)
+
