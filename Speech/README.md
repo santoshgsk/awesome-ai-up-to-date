@@ -12,6 +12,7 @@
 - [PyTorch Audio](https://github.com/pytorch/audio)
 
 ## Papers
+- Feb 3, 2020 - [Tensor-to-Vector Regression for Multi-channel Speech Enhancement based on Tensor-Train Network](https://arxiv.org/abs/2002.00544)
 - May, 2019 - [Stoichastic Gradient Methods with LAYER-WISE Adaptive Momentds  For AINING  OFDEEPNETWORKS](https://arxiv.org/pdf/1905.11286.pdf)
 - June, 2016 - [Activation GeLU - Gaussian Error Linear Units](https://arxiv.org/pdf/1606.08415.pdf)
 

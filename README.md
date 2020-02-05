@@ -15,6 +15,9 @@ A list of best resources covering broad topics including Python, Data Engineerin
 - Dec, 2019 - [From System 1 DL to System 2 DL by Yoshua Bengio](https://slideslive.com/38921750/from-system-1-deep-learning-to-system-2-deep-learning)
 
 
+## AI Journaling
+- Dec, 2019 - [Steering Journalism Toward Data Science](https://medium.com/jsk-class-of-2020/steering-journalism-toward-data-science-a4208438020b)
+
 ## Writing
 - [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)
 
