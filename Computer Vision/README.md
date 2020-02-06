@@ -6,3 +6,9 @@
 
 ## Tools
 - [Kornia](https://www.kaggle.com/c/deepfake-detection-challenge/discussion/128726)
+
+## Papers
+- Jan 14, 2020 - [Distortion Agnostic Deep Watermarking](https://arxiv.org/abs/2001.04580)
+
+## Blogs
+- Sep 2018 - [3D model from a 2D image using 2D Convolution](https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07)

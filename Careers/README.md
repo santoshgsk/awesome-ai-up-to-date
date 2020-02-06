@@ -6,6 +6,8 @@
 - May, 2019 [A Step-by-Step Guide to Transitioning your Career to Data Science – Part 1](https://www.kdnuggets.com/2019/05/guide-transitioning-career-data-science-part-1.html)
 - March 06, 2017 - [Some Reflections on Being Turned Down for a Lot of Data Science Jobs](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/)
 
+## Interview Guides
+- May 2019 - [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 
 ## Freelance
 - Blog - Jan 8, 2020 [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)

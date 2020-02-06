@@ -1,4 +1,5 @@
 ## Project Management
+- Feb 5, 2020 -[ML-fairness-gym: A Tool for Exploring Long-Term Impacts of Machine Learning Systems](https://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html)
 - Jan 30, 2020 - [The next step after a data strategy](https://registers.blog/what-next-after-a-data-strategy)
 - Jan 2020 - [The Essential ML Project Checklist](https://towardsdatascience.com/the-essential-machine-learning-project-checklist-3ad6a7a49c37)
 - Jan 7, 2020 - [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
@@ -9,6 +10,7 @@
 
 
 ## Tools
+- Feb 3, 2020 - [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710?source=friends_link&sk=731951b8f758089290198398f63f9b09?utm_source=-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=artificial-intelligence&utm_product=Hydra_020320)
 - [Optimize your Jupyter notebooks](https://www.freecodecamp.org/news/optimize-your-jupyter-notebook/)
 - [Survival Analysis](https://better.engineering/convoys/)
 
