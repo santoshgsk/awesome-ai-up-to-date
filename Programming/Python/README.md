@@ -2,6 +2,9 @@
 - Jan 2, 2020 - [Making Python Programs Blazingly Fast](https://martinheinz.dev/blog/13)
 - Jan 9, 2020 - [Massively Parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
 
+## Better Python
+- May 2019 - [Writing simpler and more maintainable Python - PyCon 2019](https://www.youtube.com/watch?time_continue=1&v=dqdsNoApJ80&feature=emb_title)
+
 ## Code Tools
 - Jan 1, 2020 - [nbdev - Create delightful Python projects using Jupyter notebooks](https://github.com/fastai/nbdev)
 - [CrossHair - A static analysis tool for Python that blurs the line between testing and type systems.](https://github.com/pschanely/CrossHair)

@@ -18,6 +18,7 @@
 
 # Transformers
 - Jan 22, 2020 - [Evolution of Representations in the Transformer](https://www.youtube.com/watch?v=h5N7sbAKBhA)
+- Jan 21, 2020 - [Microsoft open sources breakthrough optimizations for transformer inference on GPU and CPU](https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/?utm_campaign=AI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 - Aug 18, 2019 -[Transformers from scratch](http://www.peterbloem.nl/blog/transformers))
 - Aug 20, 2019 -[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
 - Aug 23, 2019 -[Making Transformer networks simpler and more efficient ](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/)
@@ -28,12 +29,14 @@
 - Aug 28, 2019 -[Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 
 ## Contextual Embeddings
+- Feb 3, 2020 - [BERT, ELMo, & GPT-2: How contextual are contextualized word representations?](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
 - June, 2018 -[Deep contextualized word representations](https://www.aclweb.org/anthology/N18-1202.pdf)
 
 ## Multi-Task Learning
 - Mar 22, 2019 -[Massive Multi-Task Learning with Snorkel MeTaL: Bringing More Supervision to Bear](https://dawn.cs.stanford.edu/2019/03/22/glue/)
 
 ## Implementation
+- [A list of NLP(Natural Language Processing) tutorials using PyTorch](https://github.com/lyeoni/nlp-tutorial)
 - [Putting Cutting-Edge Modern NLP into Practice](https://docs.google.com/presentation/d/1I5iF_Iu-WF5U8K0CBDd1VGyxqEsOFH509eeW4-nvSXc/edit#slide=id.g625c52cb18_0_122)
 
 ## Lifelong Learning

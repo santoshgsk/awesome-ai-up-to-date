@@ -1,4 +1,5 @@
 ## Blogs
+- [XGBoost for imbalanced classification](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
 - Jan 17, 2020 - [SMOTE Oversampling for Imbalanced Classification with Python](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
 
 ## Papers

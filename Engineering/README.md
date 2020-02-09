@@ -15,6 +15,7 @@
 - Paper - [ML: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 - Tool - [MetaFlow by Netflix](https://metaflow.org/)
 - Use Case - [How nbdev helps us structure our data science workflow in Jupyter Notebooks](https://medium.com/20tree-ai/how-nbdev-helps-us-structure-our-data-science-workflow-in-jupyter-notebooks-9cf6081b051f)
+- Sep 1, 2019 - [12 Steps to Production Quality Data Science Code](https://towardsdatascience.com/12-steps-to-production-quality-data-science-code-35ae2f868003)
 - July 9, 2019 - [Design patterns for Production NLP Systems](http://deliprao.com/archives/294)
 
 

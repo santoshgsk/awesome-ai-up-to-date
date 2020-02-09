@@ -6,6 +6,7 @@
 - Jan 19, 2020 - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
 
 ## Explainability
+- [A working implementation of shap in fastai2 tabular](https://github.com/muellerzr/fastai2-SHAP)
 - [Generate Diverse Counterfactual Explanations for any machine learning model.](https://github.com/microsoft/dice)
 - [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 

@@ -3,6 +3,7 @@
 - Jan 13, 2020 - [Online speech recognition with wav2letter@anywhere](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
 - Jan 8, 2020 - [The Challenges of using Transformers in ASR](https://desh2608.github.io/2020-01-08-transformer-asr/)
 - Nov 19, 2019 - [End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures](https://arxiv.org/abs/1911.08460)
+- July, 2019 - [Practical Speech Recognition with Python: The Basics](https://www.kdnuggets.com/2019/07/practical-speech-recognition-python-basics.html)
 - April, 2019 - [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://arxiv.org/abs/1904.03288)
 - [Wav2Letter Demo](https://github.com/pytorch/audio/tree/master/examples/interactive_asr)
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)

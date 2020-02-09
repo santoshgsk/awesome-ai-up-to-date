@@ -5,3 +5,9 @@
 
 ## Storage
 - [How to store data efficiently for maximum rendering speeds](https://datashader.org/user_guide/Performance.html)
+
+## Tutorials
+- [Example notebooks using BlazingSQL with the RAPIDS AI ecoystem.](https://github.com/BlazingDB/bsql-demos)
+
+## Courses
+- [Recommended courses for Data Engineering - Thread](https://twitter.com/beeonaposy/status/1225520511549091859)

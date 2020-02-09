@@ -3,3 +3,6 @@
 
 ## Papers
 - Jan 27, 2020 - [Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
+
+## Tools
+- [GeoPandas](https://geopandas.readthedocs.io/en/latest/gallery/plot_clip.html)
