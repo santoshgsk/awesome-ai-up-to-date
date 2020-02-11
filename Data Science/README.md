@@ -17,3 +17,6 @@
 ## Environment Setup
 - [Using VNC to connect to remote Jupyter Notebooks removing rendering issues for long runs](https://forums.fast.ai/t/vnc-server-rfb-003-008/14607/25)
 - [nbdev: Export functionalities to library](https://nbdev.fast.ai/)
+
+## Teams
+- Jan 31, 2019 - [On Building Effective Data Teams](https://medium.com/craftdata-labs/on-building-effective-data-science-teams-4813a4b82939)

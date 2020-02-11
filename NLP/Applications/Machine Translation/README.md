@@ -6,3 +6,6 @@
 
 ## Blogs
 - Jan 22, 2020 - [Is MT really lexically less diverse than human translation?](https://marian-nmt.github.io/2020/01/22/lexical-diversity.html)
+
+## Datasets
+- [CCMatrix: A billion-scale bitext data set for training translation models](https://ai.facebook.com/blog/ccmatrix-a-billion-scale-bitext-data-set-for-training-translation-models/)

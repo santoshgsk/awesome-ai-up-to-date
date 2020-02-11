@@ -5,6 +5,8 @@
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 ## BERT
+- Feb 2020 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
+- Feb 8, 2020 - [Visual Paper Summary ALBERT(https://amitness.com/2020/02/albert-visual-summary/)
 - [Extracting different senses of polysemic words from BERT](https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820)
 - Jan 24, 2020 - [How to train BERT with limited GPU RAM (PyTorch)](https://www.youtube.com/watch?v=Q2fT-lANdVQ)
 - Jan 17, 2020 - [How to fine tune BERT for NER](https://gab41.lab41.org/how-to-fine-tune-bert-for-named-entity-recognition-2257b5e5ce7e)
@@ -16,12 +18,15 @@
 ## Domain Adaptation
 - Jan 13, 2020 - [Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits](https://arxiv.org/abs/2001.04362)
 
-# Transformers
+## Transformers
 - Jan 22, 2020 - [Evolution of Representations in the Transformer](https://www.youtube.com/watch?v=h5N7sbAKBhA)
 - Jan 21, 2020 - [Microsoft open sources breakthrough optimizations for transformer inference on GPU and CPU](https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/?utm_campaign=AI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 - Aug 18, 2019 -[Transformers from scratch](http://www.peterbloem.nl/blog/transformers))
 - Aug 20, 2019 -[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
 - Aug 23, 2019 -[Making Transformer networks simpler and more efficient ](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/)
+
+## Reformer
+- Feb 2020 - [Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
 
 ## Transfer Learning
 - Aug 18, 2019 - [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)

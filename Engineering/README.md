@@ -20,9 +20,11 @@
 
 
 ## Deployment
+
 - Jan 14, 2020 - [Run a TensorFlow SavedModel in Node.js directly without conversion](https://blog.tensorflow.org/2020/01/run-tensorflow-savedmodel-in-nodejs-directly-without-conversion.html)
 - Jan 12, 2020 - [Deploy your side-projects at scale for basically nothing - Google Cloud Run](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless)
 - Jan 9, 2020 - [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
+- Sep 2019 -  [Configuring uwsgi for Production deployment ](https://www.techatbloomberg.com/blog/configuring-uwsgi-production-deployment/)
 - Jan 30, 2019 - [Deploy your machine learning models with Kubernetes](https://cnvrg.io/deploy-models-with-kubernetes/)
 
 
