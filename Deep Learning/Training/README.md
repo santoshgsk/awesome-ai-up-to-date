@@ -20,6 +20,7 @@
 
 
 ## HPO
+- Feb 6, 2020 - [One-Shot Bayes Opt with Probabilistic Population Based Training](https://arxiv.org/abs/2002.02518)
 - Dec 2019 - [Automated Model tuning using SigOpt](https://www.youtube.com/watch?v=L_xq1jXxzZs)
 - Nov 19, 2019 - [Optimized Image Classification on the Cheap](https://www.youtube.com/watch?time_continue=5&v=P5rU5LJfV5A&feature=emb_title)
 
@@ -33,3 +34,7 @@
 
 ## Twitter Threads
  - Feb 1, 2020 - [trained ResNet-50 on imagenet to 75.9% top-1 accuracy in 3.51 minutes using a 512-core TPUv3.(480,000 images per second. 224x224 res JPG.)](https://twitter.com/theshawwn/status/1223395022814339073)
+
+
+ ## Large scale
+ - Feb 11, 2020 - [ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)

@@ -44,3 +44,6 @@
 ## Generalization
 - Jan 14, 2020 - [Understanding Generalization in Deep Learning via Tensor Methods](https://arxiv.org/abs/2001.05070)
 
+
+## Neural Tangent
+- Feb 10, 2020 - [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803)

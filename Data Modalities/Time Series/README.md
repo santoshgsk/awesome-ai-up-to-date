@@ -13,6 +13,7 @@
 - Oct 20, 2019 - [Prophet vs DeepAR: Forecasting Food Demand](https://towardsdatascience.com/prophet-vs-deepar-forecasting-food-demand-2fdebfb8d282)
 - Oct 31, 2019 - [Two Effective Algorithms for Time Series Forecasting](https://www.youtube.com/watch?v=VYpAodcdFfA)
 - Oct, 2018 - [Deep Learning models for univariate time series forecasting](https://machinelearningmastery.com/how-to-develop-deep-learning-models-for-univariate-time-series-forecasting/)
+- Oct, 2018 - [How to Develop Convolutional Neural Networks for Multi-Step Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-convolutional-neural-networks-for-multi-step-time-series-forecasting/)
 - Sep, 2018 -[An End-to-End Project on Time Series Analysis and Forecasting with Python](https://www.kdnuggets.com/2018/09/end-to-end-project-time-series-analysis-forecasting-python.html)
 
 - May, 2016 - [Irregular time series and how to whip it](https://www.youtube.com/watch?v=E4NMZyfao2c)
