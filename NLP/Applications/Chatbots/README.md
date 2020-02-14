@@ -14,3 +14,6 @@
 
 ## Papers
 - Jan 23, 2020 - [Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text](https://arxiv.org/abs/2001.08764)
+
+## Intent Detection
+- Feb 2020 - [Intent Recognition with BERT using Keras and TensorFlow 2](https://www.kdnuggets.com/2020/02/intent-recognition-bert-keras-tensorflow.html)

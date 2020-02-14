@@ -47,3 +47,6 @@
 
 ## Neural Tangent
 - Feb 10, 2020 - [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803)
+
+## Lattice based controllable learning
+- Feb 10, 2020 - [TensorFlow Lattice: Flexible, controlled and interpretable ML](https://blog.tensorflow.org/2020/02/tensorflow-lattice-flexible-controlled-and-interpretable-ML.html?linkId=82088125)

@@ -1,0 +1,2 @@
+## ImageNet
+- Top 1 accuracy - 88.4% - Self-training with Noisy Student improves ImageNet classification - [Paper](https://arxiv.org/abs/1911.04252) [Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)

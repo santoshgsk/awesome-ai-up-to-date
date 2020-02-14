@@ -1,4 +1,5 @@
 ## Paper
+- Feb 12, 2020 -  [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
 - Feb 11, 2020 - [Turing-NLG: A 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 
 ## Blogs
