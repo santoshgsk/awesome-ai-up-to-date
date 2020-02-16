@@ -1,4 +1,5 @@
 ## Papers
+- Feb 11, 2020 - [Improved Consistency Regularization for GANs](https://arxiv.org/abs/2002.04724)
 - Feb 2, 2020 - [Adversarial Generation of Continuous Implicit Shape Representations](https://arxiv.org/abs/2002.00349)
 - Jan 20, 2020 - [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937)
 

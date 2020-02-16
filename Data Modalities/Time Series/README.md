@@ -5,6 +5,7 @@
 - Jul, 2019 - [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
 
 ## Tools
+- [Getting started with giotto-time](https://towardsdatascience.com/getting-started-with-giotto-time-d9b2088d60ca)
 - [Timeseries library - tsfresh](https://tsfresh.readthedocs.io/en/v0.12.0/)
 - [A scikit-learn compatible Python toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
 

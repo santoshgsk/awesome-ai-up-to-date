@@ -3,6 +3,7 @@
 - Jan 9, 2020 - [Massively Parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
 
 ## Better Python
+- Feb 2020 - [Prevent Repetition with Assignment Expressions](https://effectivepython.com/2020/02/02/prevent-repetition-with-assignment-expressions)
 - May 2019 - [Writing simpler and more maintainable Python - PyCon 2019](https://www.youtube.com/watch?time_continue=1&v=dqdsNoApJ80&feature=emb_title)
 
 ## Code Tools

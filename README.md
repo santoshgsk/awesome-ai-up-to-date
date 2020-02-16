@@ -19,6 +19,7 @@ A list of best resources covering broad topics including Python, Data Engineerin
 - Dec, 2019 - [Steering Journalism Toward Data Science](https://medium.com/jsk-class-of-2020/steering-journalism-toward-data-science-a4208438020b)
 
 ## Writing
+- [Draw DL architectures](https://github.com/negrinho/sane_tikz)
 - [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)
 
 ## Tool Builder

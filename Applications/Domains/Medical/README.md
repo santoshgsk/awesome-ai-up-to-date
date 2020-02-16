@@ -1,4 +1,5 @@
 ## Medical Imaging
+- Feb 10, 2020 - [Deep learning workflow in radiology: a primer](https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0832-5)
 - [Deep learning interpretation of echocardiograms](https://www.nature.com/articles/s41746-019-0216-8), [Link to Tweet by Eric Topol](https://twitter.com/EricTopol/status/1222318537504460800)
 - Feb 14, 2019 - [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
 - [Disease detection using Chest X Rays](https://github.com/SGNovice/Disease-detection-using-chest-xrays/)

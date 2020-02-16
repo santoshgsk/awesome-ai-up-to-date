@@ -37,3 +37,4 @@
 - Oct 16, 2017 - [dbt - Data Built Tool - Enables Data Transformation in Data Warehouse](https://blog.getdbt.com/what--exactly--is-dbt-/)
 ## API Deployment
 - Jan 15, 2020 - [Cortex - Deploy ML in production using Go](https://github.com/cortexlabs/cortex)
+

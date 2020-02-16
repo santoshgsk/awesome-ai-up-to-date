@@ -39,6 +39,7 @@
 - Jun 2019 - [On Learning Invariant Representations for Domain Adaptation](https://blog.ml.cmu.edu/2019/09/13/on-learning-invariant-representations-for-domain-adaptation/)
 
 ## Pruning
+- Feb 8, 2020 - [Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231)
 - Jan 15, 2020 - [A "Network Pruning Network" Approach to Deep Model Compression](https://arxiv.org/abs/2001.05545)
 
 ## Generalization

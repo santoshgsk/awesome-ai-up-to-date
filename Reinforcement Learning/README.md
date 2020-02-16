@@ -1,4 +1,6 @@
 
+# Planning
+- Feb 13, 2020 - [RL for Planning and Planning for RL](https://blog.ml.cmu.edu/2020/02/13/rl-for-planning-and-planning-for-rl/)
 
 # Experience Replay
 ## Tools
@@ -16,6 +18,7 @@
 
 
 # Text-based games
+- Feb 13, 2020 - [Read to Fight Monsters: Using RL to teach agents to generalize to new setting](https://ai.facebook.com/blog/read-to-fight-monsters-using-rl-to-teach-agents-to-generalize-to-new-settings/)
 - Jan 24, 2020 - [PCGRL: Procedural Content Generation via Reinforcement Learning](https://arxiv.org/abs/2001.09212)
 - Jan 16, 2020 - [By making text-based games more accessible to RL agents, Jericho framework opens up exciting natural language challenges](https://www.microsoft.com/en-us/research/blog/by-making-text-based-games-more-accessible-to-rl-agents-jericho-framework-opens-up-exciting-natural-language-challenges/?OCID=msr_blog_jericho_AAAI_tw)
 

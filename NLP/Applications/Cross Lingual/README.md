@@ -5,6 +5,7 @@
 -[PyTorch original implementation of Cross-lingual Language Model Pretraining.](https://github.com/facebookresearch/XLM)(https://github.com/facebookresearch/XLM#pretrained-cross-lingual-language-models)
 
 ## Papers
+- Feb 2020 - [MULTILINGUAL ALIGNMENT OF CONTEXTUAL WORD REPRESENTATIONS](https://openreview.net/pdf?id=r1xCMyBtPS)
 - Oct 2019 - [Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework](https://arxiv.org/abs/1910.04708)
 - Jan 22, 2019 - [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
 - Aug 31, 2019 - [Small and Practical BERT Models for Sequence Labeling](https://arxiv.org/pdf/1909.00100.pdf)

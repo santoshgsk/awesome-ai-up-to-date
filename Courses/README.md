@@ -19,10 +19,12 @@
 - Master Datascience Paris Saclay - [Deep Learning Course - Lecture Slides and Lab Notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
 
 ## [Theoretical]
+- [Deep Learning Essentials at ALT-ITA Joint Symposium:](https://twitter.com/rsalakhu/status/1227826009946443776)
 - Caltech University - [CS 165 Foundations of Machine Learning and Statistical Inference](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 - Berkeley University - [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - Stanford University - [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - Stanford University - [AI (Autumn 2019)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+- [Introduction to Machine Learning (I2ML)](https://compstat-lmu.github.io/lecture_i2ml/index.html)
 
 
 ## Curated lists

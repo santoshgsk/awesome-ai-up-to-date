@@ -13,6 +13,7 @@
 - Jan 16, 2020 - [Integrated Version Control: Linking Rasa X with Git-based Development Workflows](https://blog.rasa.com/integrated-version-control-linking-rasa-x-with-git-based-development-workflows-untitled/?utm_source=twitter)
 
 ## Papers
+- Feb 10, 2020 - [I love your chain mail! Making knights smile in a fantasy game world: Open-domain goal-oriented dialogue agents](https://arxiv.org/abs/2002.02878)
 - Jan 23, 2020 - [Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text](https://arxiv.org/abs/2001.08764)
 
 ## Intent Detection

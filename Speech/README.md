@@ -12,6 +12,7 @@
 - Jan 15, 2020 - [Differential Digital Signal Processing](https://magenta.tensorflow.org/ddsp)
 
 ## Tool
+- [Notebooks on working with digital signals (audio) in Python.](https://github.com/earthspecies/from_zero_to_DSP)
 - [PyTorch Audio](https://github.com/pytorch/audio)
 
 ## Papers

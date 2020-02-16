@@ -3,3 +3,6 @@
 
 ## Papers
 - Jan 30, 2020 - [Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/abs/2001.11402)
+
+## Blogs
+- Feb 13, 2020 - [Optimizing infrastructure for neural recommendation at scale](https://ai.facebook.com/blog/-optimizing-infrastructure-for-neural-recommendation-at-scale/)

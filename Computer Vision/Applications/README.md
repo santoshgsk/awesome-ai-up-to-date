@@ -10,3 +10,5 @@
 ## Human Activity Recognition
 - Jan 15, 2020 - [Personalized Activity Recognition with Deep Triplet Embeddings](https://arxiv.org/abs/2001.05517)
 
+## Video Reframing
+- Feb 2020 - [AutoFlip: An Open Source Framework for Intelligent Video Reframing](https://ai.googleblog.com/2020/02/autoflip-open-source-framework-for.html)

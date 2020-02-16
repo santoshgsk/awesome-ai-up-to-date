@@ -18,6 +18,10 @@
 - Jan 13, 2020 - [Google's AugMix with test time mean-max pooling improves ImageNet top-1](https://twitter.com/wightmanr/status/1216788357981798400)
 - Sep 2019 - [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 
+## Faster Computations
+- Feb 2020 - [One Weird Trick to Speed Up Your TensorFlow Model 100X..](https://ericmjl.github.io/blog/2020/2/13/one-weird-trick-to-speed-up-your-tensorflow-model-100x/)
+- Feb 2020 - [Nonlinear Equation Solving: A Faster Alternative to Feedforward Computation](https://arxiv.org/abs/2002.03629)
+- Feb 2020 - [Speeding up neural networks using TensorNetwork in Keras](https://blog.tensorflow.org/2020/02/speeding-up-neural-networks-using-tensornetwork-in-keras.html?linkId=82160439)
 
 ## HPO
 - Feb 6, 2020 - [One-Shot Bayes Opt with Probabilistic Population Based Training](https://arxiv.org/abs/2002.02518)
@@ -28,6 +32,9 @@
 - [How to use cloud TPUs in Keras](https://codelabs.developers.google.com/codelabs/keras-flowers-tpu/#0)
 - [tfdlpack-gpu: Moving between GPU frameworks](https://twitter.com/zstats/status/1217510085825462272)
 - [jupyterplot - Create real-time plots in Jupyter notebooks.](https://lvwerra.github.io/jupyterplot/)
+
+## Visualize
+- [Intro to Keras with W&B](https://colab.research.google.com/drive/1pMcNYctQpRoBKD5Z0iXeFWQD8hIDgzCV)
 
 ## Augmentation
 - Jan 21, 2020 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)

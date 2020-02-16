@@ -6,6 +6,7 @@
 
 
 ## FastAI
+- [A paper on fastai v2: A Layered API for Deep Learning](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 - [Key Elements of Fast AI v2 by Jeremy Howard](https://www.youtube.com/watch?v=imsBjsWLJzE)
 
 ## DL libraries
