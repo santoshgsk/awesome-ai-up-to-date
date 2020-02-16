@@ -14,6 +14,7 @@
 - [Advanced SQL course] (https://www.kaggle.com/learn/advanced-sql)
 - Sep 2019 [FastAI v2 walk through videos](https://forums.fast.ai/t/fastai-v2-daily-code-walk-thrus/53839)
 - [Twitter thread on recommended courses for Data Engineering](https://twitter.com/beeonaposy/status/1225520511549091859)
+- [CS109 Data Science by Harvard](http://cs109.github.io/2015/)
 
 ## [Theory + Practical]
 - Master Datascience Paris Saclay - [Deep Learning Course - Lecture Slides and Lab Notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)

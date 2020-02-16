@@ -38,7 +38,8 @@
 ## Invariant Learning
 - Jun 2019 - [On Learning Invariant Representations for Domain Adaptation](https://blog.ml.cmu.edu/2019/09/13/on-learning-invariant-representations-for-domain-adaptation/)
 
-## Pruning
+## Compression
+- Feb 15, 2020 - [Matrix Compression Operator](https://blog.tensorflow.org/2020/02/matrix-compression-operator-tensorflow.html?linkId=82298016)
 - Feb 8, 2020 - [Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231)
 - Jan 15, 2020 - [A "Network Pruning Network" Approach to Deep Model Compression](https://arxiv.org/abs/2001.05545)
 

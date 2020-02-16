@@ -20,3 +20,8 @@
 ## Ethics
 - Jan 16, 2020 - ["Practical Ethics: building it better in 2020 and beyond" - Nicola Nye (LCA 2020)](https://www.youtube.com/watch?list=PLD8dAKx4J2I7pzm1pjAcreW4p7SWaXcGO&v=P4Uf4eL8qAU)
 - June 2019 - [Understanding AI Ethics and Safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
+
+
+## Green AI
+- Feb 14, 2020 - [Green AI](https://medium.com/ai2-blog/green-ai-db24a414a7a4)
+- Jan 31, 2020 - [Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning](https://arxiv.org/abs/2002.05651)

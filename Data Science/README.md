@@ -1,4 +1,5 @@
 ## Project Management
+- Dec 2019 - [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
 - Feb 5, 2020 -[ML-fairness-gym: A Tool for Exploring Long-Term Impacts of Machine Learning Systems](https://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html)
 - Jan 30, 2020 - [The next step after a data strategy](https://registers.blog/what-next-after-a-data-strategy)
 - Jan 2020 - [The Essential ML Project Checklist](https://towardsdatascience.com/the-essential-machine-learning-project-checklist-3ad6a7a49c37)

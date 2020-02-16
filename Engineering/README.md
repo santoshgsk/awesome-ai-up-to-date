@@ -2,12 +2,15 @@
 - Blog - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 ## Blogs
+- Dec 2019 - [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
+- Feb 16, 2020 - [Five Interesting Data Engineering projects](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
 - Jan 13, 2020 - [Optimize Response Time of your Machine Learning API in Production](https://www.sicara.ai/blog/optimize-response-time-api)
 - Jan 8, 2020 - [Observability for Data Engineering](https://medium.com/databand-ai/observability-for-data-engineering-a2e826587205)
 - July 25, 2019 - [Production ML Survey Results](https://www.ethanrosenthal.com/2019/07/25/production-ml-survey/)
 - Jan 8, 2018 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 
 ## System Design
+- Jan 29, 2020 - [What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
 - [DagsterMill - integrate jupyter notebooks into a step of a data pipeline](https://dagster.readthedocs.io/en/0.6.7.post0/sections/learn/guides/data_science/data_science.html)
 - Dec 25, 2019 - [Twelve truths of Machine Learning for Real World](http://deliprao.com/archives/227)
 - Nov 19, 2019 - [Effects of smashing AI into human decisions](https://www.youtube.com/watch?v=vGfVa0c3R1w)
@@ -37,4 +40,7 @@
 - Oct 16, 2017 - [dbt - Data Built Tool - Enables Data Transformation in Data Warehouse](https://blog.getdbt.com/what--exactly--is-dbt-/)
 ## API Deployment
 - Jan 15, 2020 - [Cortex - Deploy ML in production using Go](https://github.com/cortexlabs/cortex)
+## Config
+- Feb 2020 - [AI for AI: Metareasoning for modular computing systems](https://www.microsoft.com/en-us/research/blog/ai-for-ai-metareasoning-for-modular-computing-systems/?OCID=msr_blog_metamod_AAAI_tw)
+- Feb 3, 2020 - [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710?source=friends_link&sk=731951b8f758089290198398f63f9b09?utm_source=-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=artificial-intelligence&utm_product=Hydra_020320)
 
