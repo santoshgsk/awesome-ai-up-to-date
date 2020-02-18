@@ -1,4 +1,5 @@
 ## Faster Python
+- Feb 17, 2020 - [A first look at JAX](https://www.pragmatic.ml/first-look-at-jax/)
 - Jan 2, 2020 - [Making Python Programs Blazingly Fast](https://martinheinz.dev/blog/13)
 - Jan 9, 2020 - [Massively Parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
 
@@ -19,3 +20,6 @@
 
 ## Testing
 - Jan 15, 2020 - [Codemodding Python: unittest asserts to Python asserts](https://medium.com/kolonial-no-product-tech/codemodding-python-unittest-asserts-to-python-asserts-dbf4d1da8c0)
+
+## Open Source
+- [Contributing to CPython](https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G)

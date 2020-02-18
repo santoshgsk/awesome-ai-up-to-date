@@ -29,6 +29,9 @@
 - Dec 30, 2019 - [A bird’s-eye view of modern AI from NeurIPS 2019](https://alexkolchinski.com/2019/12/30/neurips-2019/)
 - Dec 18, 2019 - [Key Trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html)
 
+# Pretrained weights
+- [EfficientNets](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+
 ## Neural ODEs
 - Jan 14, 2020 - [How To Train Interpretable Neural Networks That Accurately Extrapolate From Small Data](https://www.stochasticlifestyle.com/how-to-train-interpretable-neural-networks-that-accurately-extrapolate-from-small-data/)
 
@@ -46,9 +49,11 @@
 ## Generalization
 - Jan 14, 2020 - [Understanding Generalization in Deep Learning via Tensor Methods](https://arxiv.org/abs/2001.05070)
 
-
 ## Neural Tangent
 - Feb 10, 2020 - [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803)
 
 ## Lattice based controllable learning
 - Feb 10, 2020 - [TensorFlow Lattice: Flexible, controlled and interpretable ML](https://blog.tensorflow.org/2020/02/tensorflow-lattice-flexible-controlled-and-interpretable-ML.html?linkId=82088125)
+
+## Labeling
+- Jan 28, 2020 - [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)

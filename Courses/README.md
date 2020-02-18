@@ -3,6 +3,7 @@
 - [Introducing Artificial Intelligence: A Graphic Guide](https://www.amazon.in/Introducing-Artificial-Intelligence-Graphic-Guide-ebook/dp/B014RZ1M96/ref=redir_mobile_desktop?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0)
 
 ## [Practical]
+- Fall 2019 - [Advanced Robotics at UCB](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 - Jan 2020 - [Full Stack Deep Learning Bootcamp 2019](https://www.youtube.com/watch?v=5ygO8FxNB8c)
 - Jan 2020 - [Zachary Mueller's fastaiv2 Study Group and Lecture Series](https://forums.fast.ai/t/a-walk-with-fastai2-study-group-and-online-lectures-megathread/59929) [Code](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
 - Weights&Biases - [Machine Learning/Deep Learning project based course designed for engineers](https://github.com/lukas/ml-class/)

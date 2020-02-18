@@ -20,7 +20,9 @@ A list of best resources covering broad topics including Python, Data Engineerin
 
 ## Writing
 - [Draw DL architectures](https://github.com/negrinho/sane_tikz)
+- [Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
 - [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)
 
 ## Tool Builder
 - [Streamlitopedia](https://pmbaumgartner.github.io/streamlitopedia/front/introduction.html)
+- Feb 2020 - [THE PHOTON WIZARD - TOWARDS EDUCATIONAL MACHINE LEARNING CODE GENERATORS](https://arxiv.org/pdf/2002.05432v1.pdf)

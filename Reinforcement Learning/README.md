@@ -8,6 +8,7 @@
 - [Reinforcement Learning in PyTorch ](https://github.com/astooke/rlpyt)
 
 ## Papers
+- Feb 14, 2020 - [Explore, Discover and Learn: Unsupervised Discovery of State-Covering Skills](https://arxiv.org/abs/2002.03647)
 - Jan 19, 2020 - [Gradient Surgery for Multi task learning](https://arxiv.org/abs/2001.06782)
 - ICLR 2019 - [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/pdf?id=r1lyTjAqYX)
 - ICLR 2018 - [Distributed Prioritized Experience Replay](https://openreview.net/pdf?id=H1Dy---0Z)
