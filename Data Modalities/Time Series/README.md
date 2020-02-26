@@ -10,6 +10,7 @@
 - [A scikit-learn compatible Python toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
 
 ## Blogs/Videos
+- Feb 16, 2020 - [Feature Engineering with Time Gaps](http://gregreda.com/2020/02/16/feature-engineering-with-time-gaps/)
 - Jan 21, 2020 - [PyData Meetup: Intro to Causal Inference in Time Series](https://www.youtube.com/watch?v=QVQoV22pPak)
 - Oct 20, 2019 - [Prophet vs DeepAR: Forecasting Food Demand](https://towardsdatascience.com/prophet-vs-deepar-forecasting-food-demand-2fdebfb8d282)
 - Oct 31, 2019 - [Two Effective Algorithms for Time Series Forecasting](https://www.youtube.com/watch?v=VYpAodcdFfA)

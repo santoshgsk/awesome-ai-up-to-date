@@ -1,10 +1,15 @@
 ## Project Management
-- Dec 2019 - [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
 - Feb 5, 2020 -[ML-fairness-gym: A Tool for Exploring Long-Term Impacts of Machine Learning Systems](https://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html)
+- Jan 2020 - [How to Optimize Your Jupyter Notebook](https://www.kdnuggets.com/2020/01/optimize-jupyter-notebook.html)
 - Jan 30, 2020 - [The next step after a data strategy](https://registers.blog/what-next-after-a-data-strategy)
 - Jan 2020 - [The Essential ML Project Checklist](https://towardsdatascience.com/the-essential-machine-learning-project-checklist-3ad6a7a49c37)
 - Jan 7, 2020 - [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
+- Dec 2019 - [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
 - Nov, 2018 - [Metaflow - Managing Data Science Projects by Netflix](https://metaflow.org/)
+
+
+## Blogs 
+- Nov 2, 2019 - [How to avoid the worst mistake every Data Scientist can make — using these 2 crucial steps](https://towardsdatascience.com/how-to-avoid-the-worst-mistake-every-data-scientist-can-make-using-these-2-crucial-steps-a25a90b0995)
 
 ## Full Stack
 - March 11, 2019 - [Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)

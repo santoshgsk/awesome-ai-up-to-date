@@ -49,6 +49,9 @@
 ## Generalization
 - Jan 14, 2020 - [Understanding Generalization in Deep Learning via Tensor Methods](https://arxiv.org/abs/2001.05070)
 
+## Continual Learning
+- Feb 21, 2020 - [Learning to Continually Learn](https://arxiv.org/abs/2002.09571)
+
 ## Neural Tangent
 - Feb 10, 2020 - [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803)
 

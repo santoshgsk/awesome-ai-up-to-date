@@ -1,13 +1,23 @@
 ## Attention
 - May 2, 2019 - [Attention Explained - Stanford NLP Course](https://www.youtube.com/watch?v=XXtpJxZBa2c&feature=youtu.be&t=3721)
 
+## Resources
+- [NLP Fundamentals](https://github.com/dair-ai/nlp_fundamentals)
+
 ## Tools
 - [ktrain: DL training made simple](https://github.com/amaiya/ktrain)
 
 ## Datasets
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
+## Seq2Seq
+- Feb 17, 2020 - [On the Discrepancy between Density Estimation and Sequence Generation](https://arxiv.org/pdf/2002.07233.pdf)
+
+## GPT-2
+- Feb 18, 2020 - [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+
 ## BERT
+- Feb 18, 2020 - [Up Close and Personal With BERT — Google’s Epoch-Making Language Model](https://medium.com/syncedreview/up-close-and-personal-with-bert-googles-epoch-making-language-model-305deeff044b) [Paper](https://arxiv.org/pdf/1906.02715.pdf)
 - Feb 2020 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
 - Feb 8, 2020 - [Visual Paper Summary ALBERT(https://amitness.com/2020/02/albert-visual-summary/)
 - [Extracting different senses of polysemic words from BERT](https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820)
@@ -22,6 +32,7 @@
 - Jan 13, 2020 - [Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits](https://arxiv.org/abs/2001.04362)
 
 ## Transformers
+- Feb 24, 2020 - [Fixed Encoder Self-Attention Patterns in Transformer-Based Machine Translation](https://arxiv.org/abs/2002.10260)
 - Jan 22, 2020 - [Evolution of Representations in the Transformer](https://www.youtube.com/watch?v=h5N7sbAKBhA)
 - Jan 21, 2020 - [Microsoft open sources breakthrough optimizations for transformer inference on GPU and CPU](https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/?utm_campaign=AI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 - Aug 18, 2019 -[Transformers from scratch](http://www.peterbloem.nl/blog/transformers))

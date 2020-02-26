@@ -1,4 +1,7 @@
 
+## Tools
+- [RLax - JAX based RL agent library](https://github.com/deepmind/rlax)
+
 # Planning
 - Feb 13, 2020 - [RL for Planning and Planning for RL](https://blog.ml.cmu.edu/2020/02/13/rl-for-planning-and-planning-for-rl/)
 
@@ -8,6 +11,8 @@
 - [Reinforcement Learning in PyTorch ](https://github.com/astooke/rlpyt)
 
 ## Papers
+- Feb 15, 2020 - [Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1910.05396)
+- Feb 25, 2020 - [Rewriting History with Inverse RL: Hindsight Inference for Policy Improvement](https://arxiv.org/abs/2002.11089)
 - Feb 14, 2020 - [Explore, Discover and Learn: Unsupervised Discovery of State-Covering Skills](https://arxiv.org/abs/2002.03647)
 - Jan 19, 2020 - [Gradient Surgery for Multi task learning](https://arxiv.org/abs/2001.06782)
 - ICLR 2019 - [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/pdf?id=r1lyTjAqYX)
@@ -27,3 +32,4 @@
 # Robotics
 ## Papers
 - Sep 9, 2019 - [A Survey on Reproducibility by Evaluating Deep Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/abs/1909.03772)
+

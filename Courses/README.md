@@ -18,6 +18,7 @@
 - [CS109 Data Science by Harvard](http://cs109.github.io/2015/)
 
 ## [Theory + Practical]
+- [Meta Learning and Multi task learning](http://cs330.stanford.edu/)
 - Master Datascience Paris Saclay - [Deep Learning Course - Lecture Slides and Lab Notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
 
 ## [Theoretical]

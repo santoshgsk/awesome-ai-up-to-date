@@ -12,3 +12,6 @@
 
 ## Courses
 - [Recommended courses for Data Engineering - Thread](https://twitter.com/beeonaposy/status/1225520511549091859)
+
+## Blogs
+- Feb 10, 2020 - [Lessons learned managing the GitLab Data team](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)

@@ -14,6 +14,9 @@
 - [Artificial Intelligence, Values and Alignment](https://deepmind.com/research/publications/Artificial-Intelligence-Values-and-Alignment)
 
 ## Fairness
+- Feb 20, 2020 - [The Problem with Metrics is a Fundamental Problem for AI](https://arxiv.org/abs/2002.08512)
+- Feb 21, 2020 - [Setting Fairness Goals with the TensorFlow Constrained Optimization Library](https://ai.googleblog.com/2020/02/setting-fairness-goals-with-tensorflow.html)
+- [Fair ML Book](https://fairmlbook.org/)
 - Jan 8, 2020 - [Algorithmic Fairness from a Non-ideal Perspective](https://arxiv.org/abs/2001.09773)
 - Jul 25, 2017 - [What is the Problem to Which Fair Machine Learning is the Solution? | Solon Barocas | AI Now 2017](https://www.youtube.com/watch?time_continue=4&v=S_AkPi6-r3Y&feature=emb_title)
 

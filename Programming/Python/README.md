@@ -23,3 +23,6 @@
 
 ## Open Source
 - [Contributing to CPython](https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G)
+
+## Tracebacks
+- Feb 22, 2020 - [Better Python Tracebacks with Rich](https://www.willmcgugan.com/blog/tech/post/better-python-tracebacks-with-rich/)

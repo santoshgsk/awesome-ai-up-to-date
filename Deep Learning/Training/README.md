@@ -8,6 +8,7 @@
 - Jan 22, 2020 - [Survey of ML Experimental Methods](http://gael-varoquaux.info/science/survey-of-machine-learning-experimental-methods-at-neurips2019-and-iclr2020.html)
 
 ## Initialization
+- Feb 24, 2020 -  [Batch Normalization Biases Deep Residual Networks Towards Shallow Paths](https://arxiv.org/abs/2002.10444)
 - Nov 2015 - [All you need is good init](https://arxiv.org/abs/1511.06422)
 
 ## Tips
@@ -19,6 +20,7 @@
 - Sep 2019 - [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 
 ## Faster Computations
+- [PyTorch profiler](https://pytorch-lightning.readthedocs.io/en/latest/profiler.html)
 - Feb 2020 - [One Weird Trick to Speed Up Your TensorFlow Model 100X..](https://ericmjl.github.io/blog/2020/2/13/one-weird-trick-to-speed-up-your-tensorflow-model-100x/)
 - Feb 2020 - [Nonlinear Equation Solving: A Faster Alternative to Feedforward Computation](https://arxiv.org/abs/2002.03629)
 - Feb 2020 - [Speeding up neural networks using TensorNetwork in Keras](https://blog.tensorflow.org/2020/02/speeding-up-neural-networks-using-tensornetwork-in-keras.html?linkId=82160439)

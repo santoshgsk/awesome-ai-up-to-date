@@ -19,6 +19,7 @@ A list of best resources covering broad topics including Python, Data Engineerin
 - Dec, 2019 - [Steering Journalism Toward Data Science](https://medium.com/jsk-class-of-2020/steering-journalism-toward-data-science-a4208438020b)
 
 ## Writing
+- [FastPages](https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html) [How to migrate](https://johnowhitaker.github.io/datasciencecastnet_blog/)
 - [Draw DL architectures](https://github.com/negrinho/sane_tikz)
 - [Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
 - [Embed HTML version of Jupyter notebooks in Jekyll](https://twitter.com/HamelHusain/status/1218973946797682688)
